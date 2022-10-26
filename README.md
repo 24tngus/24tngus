@@ -16,6 +16,10 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white">
 
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=xkqsyd24)](https://solved.ac/xkqsyd24)
+
 <!--
 **24tngus/24tngus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
