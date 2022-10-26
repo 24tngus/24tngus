@@ -19,6 +19,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=24tngus)](https://github.com/24tngus/github-readme-stats)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=24tngus)](https://velog.io/@24tngus)
+
 <!--
 **24tngus/24tngus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
