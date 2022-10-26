@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angularjs&logoColor=white">
 
-<img src="https://img.shields.io/badge/VisualStudio-#5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">
+<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">
 ---
 <!--
 **24tngus/24tngus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
